@@ -1,7 +1,6 @@
 
 from math import *
 
-
 tile_size = 256
 
 
